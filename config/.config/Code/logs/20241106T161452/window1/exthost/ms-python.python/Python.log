@@ -1,0 +1,29 @@
+2024-11-06 16:14:59.347 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-06 16:14:59.347 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-06 16:14:59.347 [info] Experiment 'pythonTestAdapter' is active
+2024-11-06 16:14:59.347 [warning] Dir "/home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/.pixi/envs" is not watchable (directory does not exist)
+2024-11-06 16:14:59.347 [info] Python interpreter path: /bin/python
+2024-11-06 16:14:59.695 [info] > pyenv which python
+2024-11-06 16:14:59.695 [info] cwd: .
+2024-11-06 16:15:03.113 [info] Starting Pylance language server.
+2024-11-06 16:35:47.772 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/generic_search.py
+2024-11-06 16:39:45.084 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/generic_search.py
+2024-11-06 16:41:06.164 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/generic_search.py
+2024-11-06 16:54:11.662 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/generic_search.py
+2024-11-06 16:55:57.147 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/generic_search.py
+2024-11-06 16:59:42.422 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/generic_search.py
+2024-11-06 17:16:05.060 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze/maze.py
+2024-11-06 17:16:09.891 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/generic_search.py
+2024-11-06 17:19:39.227 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze/maze.py
+2024-11-06 17:19:41.076 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze/maze.py
+2024-11-06 17:23:22.157 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze/maze.py
+2024-11-06 17:23:48.175 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze/maze.py
+2024-11-06 17:24:55.940 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze.py
+2024-11-06 17:26:38.619 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze.py
+2024-11-06 17:27:23.133 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze.py
+2024-11-06 17:27:51.322 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze.py
+2024-11-06 17:28:51.720 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze.py
+2024-11-06 17:29:07.193 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze.py
+2024-11-06 17:30:41.815 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze.py
+2024-11-06 17:32:11.990 [info] CreateEnv Trigger - Skipping for /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze.py
+2024-11-06 17:33:01.458 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze.py

@@ -1,0 +1,358 @@
+2024-11-04 10:10:26.735 [info] Getting Manifest... christian-kohler.npm-intellisense
+2024-11-04 10:10:26.735 [info] Getting Manifest... formulahendry.auto-close-tag
+2024-11-04 10:10:26.736 [info] Getting Manifest... ashinzekene.nestjs
+2024-11-04 10:10:26.736 [info] Getting Manifest... batisteo.vscode-django
+2024-11-04 10:10:26.736 [info] Getting Manifest... naumovs.color-highlight
+2024-11-04 10:10:26.736 [info] Getting Manifest... esbenp.prettier-vscode
+2024-11-04 10:10:26.736 [info] Getting Manifest... formulahendry.code-runner
+2024-11-04 10:10:26.737 [info] Getting Manifest... dracula-theme.theme-dracula
+2024-11-04 10:10:26.737 [info] Getting Manifest... bracketpaircolordlw.bracket-pair-color-dlw
+2024-11-04 10:10:26.738 [info] Getting Manifest... github.github-vscode-theme
+2024-11-04 10:10:26.738 [info] Getting Manifest... miguelsolorio.min-theme
+2024-11-04 10:10:26.738 [info] Getting Manifest... tabnine.tabnine-vscode
+2024-11-04 10:10:26.738 [info] Getting Manifest... icrawl.discord-vscode
+2024-11-04 10:10:26.739 [info] Getting Manifest... pkief.material-icon-theme
+2024-11-04 10:10:26.739 [info] Getting Manifest... asvetliakov.vscode-neovim
+2024-11-04 10:10:26.739 [info] Getting Manifest... vintharas.learn-vim
+2024-11-04 10:10:26.739 [info] Getting Manifest... mcu-debug.debug-tracker-vscode
+2024-11-04 10:10:26.740 [info] Getting Manifest... eliverlara.andromeda
+2024-11-04 10:10:26.740 [info] Getting Manifest... humao.rest-client
+2024-11-04 10:10:26.740 [info] Getting Manifest... iiinsomnia.solarized-pro
+2024-11-04 10:10:26.740 [info] Getting Manifest... mutantdino.resourcemonitor
+2024-11-04 10:10:26.740 [info] Getting Manifest... vscodevim.vim
+2024-11-04 10:10:26.741 [info] Getting Manifest... zhuangtongfa.material-theme
+2024-11-04 10:10:26.741 [info] Getting Manifest... streetsidesoftware.code-spell-checker-portuguese
+2024-11-04 10:10:26.741 [info] Getting Manifest... shalldie.background
+2024-11-04 10:10:26.741 [info] Getting Manifest... katsute.code-background
+2024-11-04 10:10:26.742 [info] Getting Manifest... davidbwaters.macos-modern-theme
+2024-11-04 10:10:26.742 [info] Getting Manifest... max-ss.cyberpunk
+2024-11-04 10:10:26.742 [info] Getting Manifest... gruntfuggly.todo-tree
+2024-11-04 10:10:26.743 [info] Getting Manifest... be5invis.vscode-icontheme-nomo-dark
+2024-11-04 10:10:26.743 [info] Getting Manifest... daltonmenezes.aura-theme
+2024-11-04 10:10:26.743 [info] Getting Manifest... prisma.prisma
+2024-11-04 10:10:26.743 [info] Getting Manifest... gulajavaministudio.mayukaithemevsc
+2024-11-04 10:10:26.743 [info] Getting Manifest... rangav.vscode-thunder-client
+2024-11-04 10:10:26.743 [info] Getting Manifest... usernamehw.errorlens
+2024-11-04 10:10:26.743 [info] Getting Manifest... styled-components.vscode-styled-components
+2024-11-04 10:10:26.744 [info] Getting Manifest... br1faoro.bonsai-twilight-theme
+2024-11-04 10:10:26.744 [info] Getting Manifest... gracefulpotato.gruvbox-ish
+2024-11-04 10:10:26.744 [info] Getting Manifest... whosydd.carbon
+2024-11-04 10:10:26.744 [info] Getting Manifest... williamfedele.shinrin-yoku
+2024-11-04 10:10:26.744 [info] Getting Manifest... enkia.tokyo-night
+2024-11-04 10:10:26.744 [info] Getting Manifest... eamodio.gitlens
+2024-11-04 10:10:26.744 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2024-11-04 10:10:27.652 [info] Installing extension: christian-kohler.npm-intellisense {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.652 [info] Installing extension: formulahendry.code-runner {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.652 [info] Installing extension: ashinzekene.nestjs {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.652 [info] Installing extension: formulahendry.auto-close-tag {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.653 [info] Installing extension: github.github-vscode-theme {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.653 [info] Installing extension: bracketpaircolordlw.bracket-pair-color-dlw {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.653 [info] Installing extension: pkief.material-icon-theme {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.653 [info] Installing extension: batisteo.vscode-django {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.653 [info] Installing extension: esbenp.prettier-vscode {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.653 [info] Installing extension: streetsidesoftware.code-spell-checker {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.653 [info] Installing extension: naumovs.color-highlight {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.654 [info] Installing extension: mcu-debug.debug-tracker-vscode {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.654 [info] Installing extension: vintharas.learn-vim {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.654 [info] Installing extension: miguelsolorio.min-theme {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.654 [info] Installing extension: asvetliakov.vscode-neovim {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.654 [info] Installing extension: tabnine.tabnine-vscode {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.654 [info] Installing extension: icrawl.discord-vscode {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.654 [info] Installing extension: iiinsomnia.solarized-pro {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.655 [info] Installing extension: eliverlara.andromeda {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.655 [info] Installing extension: davidbwaters.macos-modern-theme {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.656 [info] Installing extension: prisma.prisma {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.656 [info] Installing extension: humao.rest-client {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.656 [info] Installing extension: vscodevim.vim {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.656 [info] Installing extension: streetsidesoftware.code-spell-checker-portuguese {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.656 [info] Installing extension: mutantdino.resourcemonitor {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.656 [info] Installing extension: zhuangtongfa.material-theme {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.656 [info] Installing extension: katsute.code-background {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.657 [info] Installing extension: whosydd.carbon {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.657 [info] Installing extension: enkia.tokyo-night {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.657 [info] Installing extension: daltonmenezes.aura-theme {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.657 [info] Installing extension: rangav.vscode-thunder-client {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.657 [info] Installing extension: gulajavaministudio.mayukaithemevsc {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.657 [info] Installing extension: usernamehw.errorlens {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.657 [info] Installing extension: styled-components.vscode-styled-components {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.658 [info] Installing extension: gracefulpotato.gruvbox-ish {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.658 [info] Installing extension: max-ss.cyberpunk {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.658 [info] Installing extension: gruntfuggly.todo-tree {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.658 [info] Installing extension: be5invis.vscode-icontheme-nomo-dark {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.658 [info] Installing extension: br1faoro.bonsai-twilight-theme {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.659 [info] Installing extension: eamodio.gitlens {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.659 [info] Installing extension: shalldie.background {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.659 [info] Installing extension: dracula-theme.theme-dracula {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.659 [info] Installing extension: williamfedele.shinrin-yoku {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-04 10:10:27.659 [info] Installing the extension without checking dependencies and pack christian-kohler.npm-intellisense
+2024-11-04 10:10:27.659 [info] Installing the extension without checking dependencies and pack formulahendry.code-runner
+2024-11-04 10:10:27.659 [info] Installing the extension without checking dependencies and pack ashinzekene.nestjs
+2024-11-04 10:10:27.660 [info] Installing the extension without checking dependencies and pack formulahendry.auto-close-tag
+2024-11-04 10:10:27.660 [info] Installing the extension without checking dependencies and pack github.github-vscode-theme
+2024-11-04 10:10:27.660 [info] Installing the extension without checking dependencies and pack bracketpaircolordlw.bracket-pair-color-dlw
+2024-11-04 10:10:27.660 [info] Installing the extension without checking dependencies and pack pkief.material-icon-theme
+2024-11-04 10:10:27.660 [info] Installing the extension without checking dependencies and pack batisteo.vscode-django
+2024-11-04 10:10:27.660 [info] Installing the extension without checking dependencies and pack esbenp.prettier-vscode
+2024-11-04 10:10:27.660 [info] Installing the extension without checking dependencies and pack streetsidesoftware.code-spell-checker
+2024-11-04 10:10:27.660 [info] Installing the extension without checking dependencies and pack naumovs.color-highlight
+2024-11-04 10:10:27.661 [info] Installing the extension without checking dependencies and pack mcu-debug.debug-tracker-vscode
+2024-11-04 10:10:27.661 [info] Installing the extension without checking dependencies and pack vintharas.learn-vim
+2024-11-04 10:10:27.661 [info] Installing the extension without checking dependencies and pack miguelsolorio.min-theme
+2024-11-04 10:10:27.661 [info] Installing the extension without checking dependencies and pack asvetliakov.vscode-neovim
+2024-11-04 10:10:27.661 [info] Installing the extension without checking dependencies and pack tabnine.tabnine-vscode
+2024-11-04 10:10:27.661 [info] Installing the extension without checking dependencies and pack icrawl.discord-vscode
+2024-11-04 10:10:27.661 [info] Installing the extension without checking dependencies and pack iiinsomnia.solarized-pro
+2024-11-04 10:10:27.661 [info] Installing the extension without checking dependencies and pack eliverlara.andromeda
+2024-11-04 10:10:27.662 [info] Installing the extension without checking dependencies and pack davidbwaters.macos-modern-theme
+2024-11-04 10:10:27.662 [info] Installing the extension without checking dependencies and pack prisma.prisma
+2024-11-04 10:10:27.662 [info] Installing the extension without checking dependencies and pack humao.rest-client
+2024-11-04 10:10:27.662 [info] Installing the extension without checking dependencies and pack vscodevim.vim
+2024-11-04 10:10:27.662 [info] Installing the extension without checking dependencies and pack streetsidesoftware.code-spell-checker-portuguese
+2024-11-04 10:10:27.662 [info] Installing the extension without checking dependencies and pack mutantdino.resourcemonitor
+2024-11-04 10:10:27.662 [info] Installing the extension without checking dependencies and pack zhuangtongfa.material-theme
+2024-11-04 10:10:27.663 [info] Installing the extension without checking dependencies and pack katsute.code-background
+2024-11-04 10:10:27.663 [info] Installing the extension without checking dependencies and pack whosydd.carbon
+2024-11-04 10:10:27.663 [info] Installing the extension without checking dependencies and pack enkia.tokyo-night
+2024-11-04 10:10:27.663 [info] Installing the extension without checking dependencies and pack daltonmenezes.aura-theme
+2024-11-04 10:10:27.663 [info] Installing the extension without checking dependencies and pack rangav.vscode-thunder-client
+2024-11-04 10:10:27.664 [info] Installing the extension without checking dependencies and pack gulajavaministudio.mayukaithemevsc
+2024-11-04 10:10:27.664 [info] Installing the extension without checking dependencies and pack usernamehw.errorlens
+2024-11-04 10:10:27.664 [info] Installing the extension without checking dependencies and pack styled-components.vscode-styled-components
+2024-11-04 10:10:27.664 [info] Installing the extension without checking dependencies and pack gracefulpotato.gruvbox-ish
+2024-11-04 10:10:27.664 [info] Installing the extension without checking dependencies and pack max-ss.cyberpunk
+2024-11-04 10:10:27.664 [info] Installing the extension without checking dependencies and pack gruntfuggly.todo-tree
+2024-11-04 10:10:27.664 [info] Installing the extension without checking dependencies and pack be5invis.vscode-icontheme-nomo-dark
+2024-11-04 10:10:27.665 [info] Installing the extension without checking dependencies and pack br1faoro.bonsai-twilight-theme
+2024-11-04 10:10:27.665 [info] Installing the extension without checking dependencies and pack eamodio.gitlens
+2024-11-04 10:10:27.665 [info] Installing the extension without checking dependencies and pack shalldie.background
+2024-11-04 10:10:27.665 [info] Installing the extension without checking dependencies and pack dracula-theme.theme-dracula
+2024-11-04 10:10:27.665 [info] Installing the extension without checking dependencies and pack williamfedele.shinrin-yoku
+2024-11-04 10:10:30.076 [info] Extension signature verification result for christian-kohler.npm-intellisense: UnknownError. Executed: true. Duration: 16ms.
+2024-11-04 10:10:30.076 [info] Extension signature verification result for github.github-vscode-theme: UnknownError. Executed: true. Duration: 26ms.
+2024-11-04 10:10:30.080 [info] Extension signature verification result for naumovs.color-highlight: UnknownError. Executed: true. Duration: 16ms.
+2024-11-04 10:10:30.124 [info] Extension signature verification result for asvetliakov.vscode-neovim: UnknownError. Executed: true. Duration: 18ms.
+2024-11-04 10:10:30.124 [info] Extension signature verification result for formulahendry.auto-close-tag: UnknownError. Executed: true. Duration: 23ms.
+2024-11-04 10:10:30.124 [info] Extension signature verification result for streetsidesoftware.code-spell-checker: UnknownError. Executed: true. Duration: 28ms.
+2024-11-04 10:10:30.142 [info] Extension signature verification result for iiinsomnia.solarized-pro: UnknownError. Executed: true. Duration: 25ms.
+2024-11-04 10:10:30.142 [info] Extension signature verification result for tabnine.tabnine-vscode: UnknownError. Executed: true. Duration: 32ms.
+2024-11-04 10:10:30.149 [info] Extension signature verification result for esbenp.prettier-vscode: UnknownError. Executed: true. Duration: 13ms.
+2024-11-04 10:10:30.149 [info] Extension signature verification result for mutantdino.resourcemonitor: UnknownError. Executed: true. Duration: 18ms.
+2024-11-04 10:10:30.149 [info] Extension signature verification result for vscodevim.vim: UnknownError. Executed: true. Duration: 23ms.
+2024-11-04 10:10:30.211 [info] Extension signature verification result for rangav.vscode-thunder-client: UnknownError. Executed: true. Duration: 29ms.
+2024-11-04 10:10:30.211 [info] Extension signature verification result for batisteo.vscode-django: UnknownError. Executed: true. Duration: 35ms.
+2024-11-04 10:10:30.211 [info] Extension signature verification result for mcu-debug.debug-tracker-vscode: UnknownError. Executed: true. Duration: 40ms.
+2024-11-04 10:10:30.212 [info] Extension signature verification result for usernamehw.errorlens: UnknownError. Executed: true. Duration: 45ms.
+2024-11-04 10:10:30.213 [info] Extension signature verification result for pkief.material-icon-theme: UnknownError. Executed: true. Duration: 50ms.
+2024-11-04 10:10:30.217 [info] Extension signature verification result for miguelsolorio.min-theme: UnknownError. Executed: true. Duration: 15ms.
+2024-11-04 10:10:30.217 [info] Extension signature verification result for daltonmenezes.aura-theme: UnknownError. Executed: true. Duration: 19ms.
+2024-11-04 10:10:30.217 [info] Extension signature verification result for prisma.prisma: UnknownError. Executed: true. Duration: 25ms.
+2024-11-04 10:10:30.264 [info] Extension signature verification result for vintharas.learn-vim: UnknownError. Executed: true. Duration: 34ms.
+2024-11-04 10:10:30.264 [info] Extension signature verification result for katsute.code-background: UnknownError. Executed: true. Duration: 39ms.
+2024-11-04 10:10:30.268 [info] Extension signature verification result for eliverlara.andromeda: UnknownError. Executed: true. Duration: 11ms.
+2024-11-04 10:10:30.268 [info] Extension signature verification result for whosydd.carbon: UnknownError. Executed: true. Duration: 17ms.
+2024-11-04 10:10:30.269 [info] Extension signature verification result for styled-components.vscode-styled-components: UnknownError. Executed: true. Duration: 23ms.
+2024-11-04 10:10:30.269 [info] Extension signature verification result for icrawl.discord-vscode: UnknownError. Executed: true. Duration: 27ms.
+2024-11-04 10:10:30.269 [info] Extension signature verification result for gruntfuggly.todo-tree: UnknownError. Executed: true. Duration: 35ms.
+2024-11-04 10:10:30.286 [info] Extension signature verification result for zhuangtongfa.material-theme: UnknownError. Executed: true. Duration: 13ms.
+2024-11-04 10:10:30.289 [info] Extension signature verification result for br1faoro.bonsai-twilight-theme: UnknownError. Executed: true. Duration: 11ms.
+2024-11-04 10:10:30.346 [info] Extension signature verification result for ashinzekene.nestjs: UnknownError. Executed: true. Duration: 54ms.
+2024-11-04 10:10:30.362 [info] Extension signature verification result for gracefulpotato.gruvbox-ish: UnknownError. Executed: true. Duration: 34ms.
+2024-11-04 10:10:30.363 [info] Extension signature verification result for formulahendry.code-runner: UnknownError. Executed: true. Duration: 46ms.
+2024-11-04 10:10:30.363 [info] Extension signature verification result for streetsidesoftware.code-spell-checker-portuguese: UnknownError. Executed: true. Duration: 55ms.
+2024-11-04 10:10:30.364 [info] Extension signature verification result for shalldie.background: UnknownError. Executed: true. Duration: 61ms.
+2024-11-04 10:10:30.364 [info] Extension signature verification result for enkia.tokyo-night: UnknownError. Executed: true. Duration: 69ms.
+2024-11-04 10:10:30.384 [info] Extension signature verification result for be5invis.vscode-icontheme-nomo-dark: UnknownError. Executed: true. Duration: 34ms.
+2024-11-04 10:10:30.389 [info] Extension signature verification result for dracula-theme.theme-dracula: UnknownError. Executed: true. Duration: 22ms.
+2024-11-04 10:10:30.394 [info] Extension signature verification result for bracketpaircolordlw.bracket-pair-color-dlw: UnknownError. Executed: true. Duration: 18ms.
+2024-11-04 10:10:30.440 [info] Extension signature verification result for williamfedele.shinrin-yoku: UnknownError. Executed: true. Duration: 15ms.
+2024-11-04 10:10:30.698 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/br1faoro.bonsai-twilight-theme-1.0.1: br1faoro.bonsai-twilight-theme
+2024-11-04 10:10:30.734 [info] Renamed to /home/felipersas/.vscode/extensions/br1faoro.bonsai-twilight-theme-1.0.1
+2024-11-04 10:10:30.739 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/daltonmenezes.aura-theme-2.1.2: daltonmenezes.aura-theme
+2024-11-04 10:10:30.740 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/bracketpaircolordlw.bracket-pair-color-dlw-0.0.6: bracketpaircolordlw.bracket-pair-color-dlw
+2024-11-04 10:10:30.763 [info] Extension signature verification result for gulajavaministudio.mayukaithemevsc: UnknownError. Executed: true. Duration: 16ms.
+2024-11-04 10:10:30.767 [info] Extension signature verification result for humao.rest-client: UnknownError. Executed: true. Duration: 15ms.
+2024-11-04 10:10:30.786 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/katsute.code-background-3.0.2: katsute.code-background
+2024-11-04 10:10:30.791 [info] Renamed to /home/felipersas/.vscode/extensions/daltonmenezes.aura-theme-2.1.2
+2024-11-04 10:10:30.792 [info] Renamed to /home/felipersas/.vscode/extensions/bracketpaircolordlw.bracket-pair-color-dlw-0.0.6
+2024-11-04 10:10:30.804 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/whosydd.carbon-0.4.0: whosydd.carbon
+2024-11-04 10:10:30.839 [info] Renamed to /home/felipersas/.vscode/extensions/katsute.code-background-3.0.2
+2024-11-04 10:10:30.855 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-04 10:10:30.857 [info] Renamed to /home/felipersas/.vscode/extensions/whosydd.carbon-0.4.0
+2024-11-04 10:10:30.876 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/mcu-debug.debug-tracker-vscode-0.0.15: mcu-debug.debug-tracker-vscode
+2024-11-04 10:10:30.876 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/miguelsolorio.min-theme-1.5.0: miguelsolorio.min-theme
+2024-11-04 10:10:30.918 [info] Renamed to /home/felipersas/.vscode/extensions/mcu-debug.debug-tracker-vscode-0.0.15
+2024-11-04 10:10:30.922 [info] Renamed to /home/felipersas/.vscode/extensions/miguelsolorio.min-theme-1.5.0
+2024-11-04 10:10:30.980 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/iiinsomnia.solarized-pro-1.0.9: iiinsomnia.solarized-pro
+2024-11-04 10:10:30.993 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/icrawl.discord-vscode-5.8.0: icrawl.discord-vscode
+2024-11-04 10:10:31.037 [info] Renamed to /home/felipersas/.vscode/extensions/iiinsomnia.solarized-pro-1.0.9
+2024-11-04 10:10:31.050 [info] Renamed to /home/felipersas/.vscode/extensions/icrawl.discord-vscode-5.8.0
+2024-11-04 10:10:31.070 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/ashinzekene.nestjs-1.4.2: ashinzekene.nestjs
+2024-11-04 10:10:31.132 [info] Renamed to /home/felipersas/.vscode/extensions/ashinzekene.nestjs-1.4.2
+2024-11-04 10:10:31.133 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/dracula-theme.theme-dracula-2.25.1: dracula-theme.theme-dracula
+2024-11-04 10:10:31.134 [info] Extension signature verification result for davidbwaters.macos-modern-theme: UnknownError. Executed: true. Duration: 11ms.
+2024-11-04 10:10:31.144 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/streetsidesoftware.code-spell-checker-portuguese-2.0.2: streetsidesoftware.code-spell-checker-portuguese
+2024-11-04 10:10:31.151 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/github.github-vscode-theme-6.3.5: github.github-vscode-theme
+2024-11-04 10:10:31.159 [info] Renamed to /home/felipersas/.vscode/extensions/dracula-theme.theme-dracula-2.25.1
+2024-11-04 10:10:31.174 [info] Renamed to /home/felipersas/.vscode/extensions/streetsidesoftware.code-spell-checker-portuguese-2.0.2
+2024-11-04 10:10:31.183 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/gracefulpotato.gruvbox-ish-0.5.18: gracefulpotato.gruvbox-ish
+2024-11-04 10:10:31.186 [info] Extension signature verification result for max-ss.cyberpunk: UnknownError. Executed: true. Duration: 17ms.
+2024-11-04 10:10:31.191 [info] Renamed to /home/felipersas/.vscode/extensions/github.github-vscode-theme-6.3.5
+2024-11-04 10:10:31.192 [info] Extension signature verification result for eamodio.gitlens: UnknownError. Executed: true. Duration: 14ms.
+2024-11-04 10:10:31.235 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/enkia.tokyo-night-1.0.9: enkia.tokyo-night
+2024-11-04 10:10:31.237 [info] Renamed to /home/felipersas/.vscode/extensions/gracefulpotato.gruvbox-ish-0.5.18
+2024-11-04 10:10:31.264 [info] Renamed to /home/felipersas/.vscode/extensions/enkia.tokyo-night-1.0.9
+2024-11-04 10:10:31.290 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/formulahendry.auto-close-tag-0.5.15: formulahendry.auto-close-tag
+2024-11-04 10:10:31.323 [info] Renamed to /home/felipersas/.vscode/extensions/formulahendry.auto-close-tag-0.5.15
+2024-11-04 10:10:31.343 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/usernamehw.errorlens-3.20.0: usernamehw.errorlens
+2024-11-04 10:10:31.381 [info] Renamed to /home/felipersas/.vscode/extensions/usernamehw.errorlens-3.20.0
+2024-11-04 10:10:31.422 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/mutantdino.resourcemonitor-1.0.7: mutantdino.resourcemonitor
+2024-11-04 10:10:31.447 [info] Renamed to /home/felipersas/.vscode/extensions/mutantdino.resourcemonitor-1.0.7
+2024-11-04 10:10:31.461 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/williamfedele.shinrin-yoku-0.0.3: williamfedele.shinrin-yoku
+2024-11-04 10:10:31.493 [info] Renamed to /home/felipersas/.vscode/extensions/williamfedele.shinrin-yoku-0.0.3
+2024-11-04 10:10:31.623 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/eliverlara.andromeda-1.8.2: eliverlara.andromeda
+2024-11-04 10:10:31.627 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/christian-kohler.npm-intellisense-1.4.5: christian-kohler.npm-intellisense
+2024-11-04 10:10:31.640 [info] Renamed to /home/felipersas/.vscode/extensions/eliverlara.andromeda-1.8.2
+2024-11-04 10:10:31.643 [info] Renamed to /home/felipersas/.vscode/extensions/christian-kohler.npm-intellisense-1.4.5
+2024-11-04 10:10:31.694 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/vscodevim.vim-1.28.1: vscodevim.vim
+2024-11-04 10:10:31.732 [info] Renamed to /home/felipersas/.vscode/extensions/vscodevim.vim-1.28.1
+2024-11-04 10:10:31.756 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-04 10:10:31.815 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/asvetliakov.vscode-neovim-1.18.14: asvetliakov.vscode-neovim
+2024-11-04 10:10:31.828 [info] Renamed to /home/felipersas/.vscode/extensions/asvetliakov.vscode-neovim-1.18.14
+2024-11-04 10:10:31.865 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/gruntfuggly.todo-tree-0.0.226: gruntfuggly.todo-tree
+2024-11-04 10:10:31.885 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/humao.rest-client-0.25.1: humao.rest-client
+2024-11-04 10:10:31.889 [info] Renamed to /home/felipersas/.vscode/extensions/gruntfuggly.todo-tree-0.0.226
+2024-11-04 10:10:31.901 [info] Renamed to /home/felipersas/.vscode/extensions/humao.rest-client-0.25.1
+2024-11-04 10:10:32.016 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/vintharas.learn-vim-0.0.28: vintharas.learn-vim
+2024-11-04 10:10:32.028 [info] Renamed to /home/felipersas/.vscode/extensions/vintharas.learn-vim-0.0.28
+2024-11-04 10:10:32.202 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/zhuangtongfa.material-theme-3.17.5: zhuangtongfa.material-theme
+2024-11-04 10:10:32.223 [info] Renamed to /home/felipersas/.vscode/extensions/zhuangtongfa.material-theme-3.17.5
+2024-11-04 10:10:32.285 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/rangav.vscode-thunder-client-2.29.6: rangav.vscode-thunder-client
+2024-11-04 10:10:32.299 [info] Renamed to /home/felipersas/.vscode/extensions/rangav.vscode-thunder-client-2.29.6
+2024-11-04 10:10:32.321 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-04 10:10:32.354 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/batisteo.vscode-django-1.15.0: batisteo.vscode-django
+2024-11-04 10:10:32.365 [info] Renamed to /home/felipersas/.vscode/extensions/batisteo.vscode-django-1.15.0
+2024-11-04 10:10:32.369 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/be5invis.vscode-icontheme-nomo-dark-1.3.6: be5invis.vscode-icontheme-nomo-dark
+2024-11-04 10:10:32.381 [info] Renamed to /home/felipersas/.vscode/extensions/be5invis.vscode-icontheme-nomo-dark-1.3.6
+2024-11-04 10:10:32.382 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/esbenp.prettier-vscode-11.0.0: esbenp.prettier-vscode
+2024-11-04 10:10:32.404 [info] Renamed to /home/felipersas/.vscode/extensions/esbenp.prettier-vscode-11.0.0
+2024-11-04 10:10:32.453 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/shalldie.background-2.0.1: shalldie.background
+2024-11-04 10:10:32.468 [info] Renamed to /home/felipersas/.vscode/extensions/shalldie.background-2.0.1
+2024-11-04 10:10:32.594 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/tabnine.tabnine-vscode-3.183.0: tabnine.tabnine-vscode
+2024-11-04 10:10:32.602 [info] Renamed to /home/felipersas/.vscode/extensions/tabnine.tabnine-vscode-3.183.0
+2024-11-04 10:10:32.635 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/formulahendry.code-runner-0.12.2: formulahendry.code-runner
+2024-11-04 10:10:32.645 [info] Renamed to /home/felipersas/.vscode/extensions/formulahendry.code-runner-0.12.2
+2024-11-04 10:10:32.789 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/gulajavaministudio.mayukaithemevsc-3.2.5: gulajavaministudio.mayukaithemevsc
+2024-11-04 10:10:32.798 [info] Renamed to /home/felipersas/.vscode/extensions/gulajavaministudio.mayukaithemevsc-3.2.5
+2024-11-04 10:10:32.800 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/max-ss.cyberpunk-1.2.14: max-ss.cyberpunk
+2024-11-04 10:10:32.809 [info] Renamed to /home/felipersas/.vscode/extensions/max-ss.cyberpunk-1.2.14
+2024-11-04 10:10:32.886 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-04 10:10:33.123 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/naumovs.color-highlight-2.8.0: naumovs.color-highlight
+2024-11-04 10:10:33.130 [info] Renamed to /home/felipersas/.vscode/extensions/naumovs.color-highlight-2.8.0
+2024-11-04 10:10:33.196 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/streetsidesoftware.code-spell-checker-3.0.1: streetsidesoftware.code-spell-checker
+2024-11-04 10:10:33.204 [info] Renamed to /home/felipersas/.vscode/extensions/streetsidesoftware.code-spell-checker-3.0.1
+2024-11-04 10:10:33.213 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-04 10:10:33.514 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/davidbwaters.macos-modern-theme-2.3.19: davidbwaters.macos-modern-theme
+2024-11-04 10:10:33.518 [info] Renamed to /home/felipersas/.vscode/extensions/davidbwaters.macos-modern-theme-2.3.19
+2024-11-04 10:10:33.569 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/eamodio.gitlens-15.6.2: eamodio.gitlens
+2024-11-04 10:10:33.589 [info] Renamed to /home/felipersas/.vscode/extensions/eamodio.gitlens-15.6.2
+2024-11-04 10:10:34.015 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/pkief.material-icon-theme-5.12.0: pkief.material-icon-theme
+2024-11-04 10:10:34.019 [info] Renamed to /home/felipersas/.vscode/extensions/pkief.material-icon-theme-5.12.0
+2024-11-04 10:10:34.102 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-04 10:10:34.280 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/prisma.prisma-5.21.1: prisma.prisma
+2024-11-04 10:10:34.287 [info] Renamed to /home/felipersas/.vscode/extensions/prisma.prisma-5.21.1
+2024-11-04 10:10:34.370 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-04 10:10:34.692 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/styled-components.vscode-styled-components-1.7.8: styled-components.vscode-styled-components
+2024-11-04 10:10:34.696 [info] Renamed to /home/felipersas/.vscode/extensions/styled-components.vscode-styled-components-1.7.8
+2024-11-04 10:10:34.742 [info] Extension installed successfully: br1faoro.bonsai-twilight-theme vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.742 [info] Extension installed successfully: daltonmenezes.aura-theme vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.742 [info] Extension installed successfully: bracketpaircolordlw.bracket-pair-color-dlw vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.742 [info] Extension installed successfully: katsute.code-background vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.742 [info] Extension installed successfully: whosydd.carbon vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.742 [info] Extension installed successfully: mcu-debug.debug-tracker-vscode vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.742 [info] Extension installed successfully: miguelsolorio.min-theme vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.743 [info] Extension installed successfully: iiinsomnia.solarized-pro vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.743 [info] Extension installed successfully: icrawl.discord-vscode vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.743 [info] Extension installed successfully: ashinzekene.nestjs vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.743 [info] Extension installed successfully: dracula-theme.theme-dracula vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.743 [info] Extension installed successfully: streetsidesoftware.code-spell-checker-portuguese vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.743 [info] Extension installed successfully: github.github-vscode-theme vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.743 [info] Extension installed successfully: gracefulpotato.gruvbox-ish vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.743 [info] Extension installed successfully: enkia.tokyo-night vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.744 [info] Extension installed successfully: formulahendry.auto-close-tag vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.744 [info] Extension installed successfully: usernamehw.errorlens vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.744 [info] Extension installed successfully: mutantdino.resourcemonitor vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.744 [info] Extension installed successfully: williamfedele.shinrin-yoku vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.744 [info] Extension installed successfully: eliverlara.andromeda vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.744 [info] Extension installed successfully: christian-kohler.npm-intellisense vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.745 [info] Extension installed successfully: vscodevim.vim vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.745 [info] Extension installed successfully: asvetliakov.vscode-neovim vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.745 [info] Extension installed successfully: gruntfuggly.todo-tree vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.745 [info] Extension installed successfully: humao.rest-client vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.745 [info] Extension installed successfully: vintharas.learn-vim vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.745 [info] Extension installed successfully: zhuangtongfa.material-theme vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.746 [info] Extension installed successfully: rangav.vscode-thunder-client vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.746 [info] Extension installed successfully: batisteo.vscode-django vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.746 [info] Extension installed successfully: be5invis.vscode-icontheme-nomo-dark vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.746 [info] Extension installed successfully: esbenp.prettier-vscode vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.746 [info] Extension installed successfully: shalldie.background vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.746 [info] Extension installed successfully: tabnine.tabnine-vscode vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.747 [info] Extension installed successfully: formulahendry.code-runner vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.747 [info] Extension installed successfully: gulajavaministudio.mayukaithemevsc vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.747 [info] Extension installed successfully: max-ss.cyberpunk vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.747 [info] Extension installed successfully: naumovs.color-highlight vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.747 [info] Extension installed successfully: streetsidesoftware.code-spell-checker vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.748 [info] Extension installed successfully: davidbwaters.macos-modern-theme vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.748 [info] Extension installed successfully: eamodio.gitlens vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.748 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.748 [info] Extension installed successfully: prisma.prisma vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.748 [info] Extension installed successfully: styled-components.vscode-styled-components vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-04 10:10:34.781 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-04 13:38:31.098 [error] [network] #705: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED

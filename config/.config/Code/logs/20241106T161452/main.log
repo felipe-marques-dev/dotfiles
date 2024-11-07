@@ -1,0 +1,7 @@
+2024-11-06 16:14:52.773 [info] update#setState idle
+2024-11-06 16:15:22.735 [info] update#setState checking for updates
+2024-11-06 16:15:22.997 [info] update#setState idle
+2024-11-06 17:15:22.740 [info] update#setState checking for updates
+2024-11-06 17:15:23.373 [info] update#setState idle
+2024-11-06 17:38:48.057 [info] Extension host with pid 1486 exited with code: 0, signal: unknown.
+2024-11-06 17:38:48.072 [error] [UtilityProcessWorker]: terminated unexpectedly with code 82, signal: unknown

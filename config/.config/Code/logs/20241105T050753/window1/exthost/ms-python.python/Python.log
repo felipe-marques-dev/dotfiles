@@ -1,0 +1,8 @@
+2024-11-05 05:07:57.900 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-05 05:07:57.900 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-05 05:07:57.900 [info] Experiment 'pythonTestAdapter' is active
+2024-11-05 05:07:57.900 [warning] Dir "/home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/.pixi/envs" is not watchable (directory does not exist)
+2024-11-05 05:07:57.967 [info] Python interpreter path: /bin/python
+2024-11-05 05:07:59.972 [info] > pyenv which python
+2024-11-05 05:07:59.972 [info] cwd: .
+2024-11-05 05:08:01.897 [info] Starting Pylance language server.

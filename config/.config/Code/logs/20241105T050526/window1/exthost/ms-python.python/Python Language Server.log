@@ -1,0 +1,20 @@
+2024-11-05 05:05:33.229 [info] [Info  - 5:05:33 AM] (28998) Server root directory: file:///home/felipersas/.vscode/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-11-05 05:05:33.306 [info] [Info  - 5:05:33 AM] (28998) Pylance language server 2024.10.1 (pyright version 1.1.382, commit e46efc6b) starting
+2024-11-05 05:05:33.344 [info] [Info  - 5:05:33 AM] (28998) Starting service instance "Problemas-Classicos-de-CC---Livro"
+2024-11-05 05:05:33.948 [info] [Info  - 5:05:33 AM] (28998) Setting environmentName for service "Problemas-Classicos-de-CC---Livro": "3.12.7 (global)"
+2024-11-05 05:05:33.949 [info] [Info  - 5:05:33 AM] (28998) Setting pythonPath for service "Problemas-Classicos-de-CC---Livro": "/bin/python"
+2024-11-05 05:05:33.960 [info] [Info  - 5:05:33 AM] (28998) No include entries specified; assuming /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro
+2024-11-05 05:05:33.984 [info] [Info  - 5:05:33 AM] (28998) Auto-excluding **/node_modules
+2024-11-05 05:05:34.036 [info] [Info  - 5:05:34 AM] (28998) Auto-excluding **/__pycache__
+2024-11-05 05:05:34.052 [info] [Info  - 5:05:34 AM] (28998) Auto-excluding **/.*
+2024-11-05 05:05:34.078 [info] [Info  - 5:05:34 AM] (28998) Assuming Python version 3.12.7.final.0
+2024-11-05 05:05:34.150 [info] [Info  - 5:05:34 AM] (28998) Found 12 source files
+2024-11-05 05:05:34.977 [info] [Info  - 5:05:34 AM] (28998) Background analysis(1) root directory: file:///home/felipersas/.vscode/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-11-05 05:05:34.981 [info] [Info  - 5:05:34 AM] (28998) Background analysis(1) started
+2024-11-05 05:05:35.303 [info] [Info  - 5:05:35 AM] (28998) Indexer background runner(2) root directory: file:///home/felipersas/.vscode/extensions/ms-python.vscode-pylance-2024.10.1/dist (index)
+2024-11-05 05:05:35.365 [info] [Info  - 5:05:35 AM] (28998) Indexing(2) started
+2024-11-05 05:05:36.052 [info] [Info  - 5:05:36 AM] (28998) scanned(2) 15 files over 1 exec env
+2024-11-05 05:05:36.395 [info] [Info  - 5:05:36 AM] (28998) indexed(2) 15 files over 1 exec env
+2024-11-05 05:05:36.419 [info] [Info  - 5:05:36 AM] (28998) Indexing finished(2).
+2024-11-05 05:05:42.983 [info] (Client) The existing extension didn't exit within 10 seconds. New instance will start, but you might encounter issues.
+2024-11-05 05:05:42.983 [info] (Client) Pylance async client (2024.10.1) started with python extension (2024.18.0)

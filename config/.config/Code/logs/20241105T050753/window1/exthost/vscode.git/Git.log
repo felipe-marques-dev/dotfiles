@@ -1,0 +1,32 @@
+2024-11-05 05:08:00.714 [info] [main] Log level: Info
+2024-11-05 05:08:00.714 [info] [main] Validating found git in: "git"
+2024-11-05 05:08:00.714 [info] [main] Using git "2.47.0" from "git"
+2024-11-05 05:08:00.714 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-05 05:08:00.714 [info] > git rev-parse --show-toplevel [785ms]
+2024-11-05 05:08:00.714 [info] > git rev-parse --git-dir --git-common-dir [90ms]
+2024-11-05 05:08:00.714 [info] [Model][openRepository] Opened repository: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro
+2024-11-05 05:08:00.736 [info] > git rev-parse --show-toplevel [42ms]
+2024-11-05 05:08:00.737 [info] > git config --get commit.template [50ms]
+2024-11-05 05:08:00.793 [info] > git rev-parse --show-toplevel [22ms]
+2024-11-05 05:08:00.822 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [35ms]
+2024-11-05 05:08:00.826 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-05 05:08:00.862 [info] > git status -z -uall [11ms]
+2024-11-05 05:08:00.862 [info] > git rev-parse --show-toplevel [26ms]
+2024-11-05 05:08:00.922 [info] > git rev-parse --show-toplevel [13ms]
+2024-11-05 05:08:00.928 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [67ms]
+2024-11-05 05:08:00.973 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [28ms]
+2024-11-05 05:08:01.008 [info] > git config --local branch.main.vscode-merge-base [25ms]
+2024-11-05 05:08:01.017 [info] > git config --get commit.template [45ms]
+2024-11-05 05:08:01.018 [info] > git rev-parse --show-toplevel [54ms]
+2024-11-05 05:08:01.034 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [17ms]
+2024-11-05 05:08:01.057 [info] > git merge-base refs/heads/main refs/remotes/origin/main [13ms]
+2024-11-05 05:08:01.066 [info] > git rev-parse --show-toplevel [38ms]
+2024-11-05 05:08:01.069 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-05 05:08:01.090 [info] > git show --textconv :search_problems/generic_search.py [12ms]
+2024-11-05 05:08:01.091 [info] > git ls-files --stage -- /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/generic_search.py [5ms]
+2024-11-05 05:08:01.100 [info] > git diff --name-status -z --diff-filter=ADMR b0614997b7c746895ae3f3ccfcc152105d11c6d8...refs/remotes/origin/main [33ms]
+2024-11-05 05:08:01.101 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [44ms]
+2024-11-05 05:08:01.147 [info] > git cat-file -s 3307b5ed4b487828163d2adce5c02ae542ff8a7d [49ms]
+2024-11-05 05:08:01.197 [info] > git status -z -uall [14ms]
+2024-11-05 05:08:01.197 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2024-11-05 05:08:01.228 [info] > git check-ignore -v -z --stdin [11ms]

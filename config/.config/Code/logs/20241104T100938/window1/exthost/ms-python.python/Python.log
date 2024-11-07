@@ -1,0 +1,26 @@
+2024-11-04 10:09:40.878 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-04 10:09:40.878 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-04 10:09:40.878 [info] Experiment 'pythonTestAdapter' is active
+2024-11-04 10:09:40.878 [warning] Dir "/home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/.pixi/envs" is not watchable (directory does not exist)
+2024-11-04 10:09:40.995 [info] Python interpreter path: /bin/python
+2024-11-04 10:09:41.036 [info] > pyenv which python
+2024-11-04 10:09:41.036 [info] cwd: .
+2024-11-04 10:09:43.210 [info] Starting Pylance language server.
+2024-11-04 10:18:36.944 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze/maze.py
+2024-11-04 10:44:21.913 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze/maze.py
+2024-11-04 10:51:58.567 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze/maze.py
+2024-11-04 11:06:32.535 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/generic_search.py
+2024-11-04 11:10:13.804 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/generic_search.py
+2024-11-04 11:20:21.316 [info] Discover tests for workspace name: undefined - uri: /home/felipersas/.config/Code/User/settings.json
+2024-11-04 11:20:32.982 [info] Discover tests for workspace name: undefined - uri: /home/felipersas/.config/Code/User/settings.json
+2024-11-04 11:20:37.864 [info] Discover tests for workspace name: undefined - uri: /home/felipersas/.config/Code/User/settings.json
+2024-11-04 11:22:04.271 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze/maze.py
+2024-11-04 11:25:48.682 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze/maze.py
+2024-11-04 11:27:09.488 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze/maze.py
+2024-11-04 11:27:34.277 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze/maze.py
+2024-11-04 11:27:47.303 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze/maze.py
+2024-11-04 11:50:41.070 [info] Discover tests for workspace name: undefined - uri: /home/felipersas/.config/Code/User/settings.json
+2024-11-04 11:50:43.388 [info] Discover tests for workspace name: undefined - uri: /home/felipersas/.config/Code/User/settings.json
+2024-11-04 11:50:45.439 [info] Discover tests for workspace name: undefined - uri: /home/felipersas/.config/Code/User/settings.json
+2024-11-04 11:50:48.397 [info] Discover tests for workspace name: undefined - uri: /home/felipersas/.config/Code/User/settings.json
+2024-11-04 12:02:20.056 [info] Discover tests for workspace name: Problemas-Classicos-de-CC---Livro - uri: /home/felipersas/Documents/Problemas-Classicos-de-CC---Livro/search_problems/maze/maze.py

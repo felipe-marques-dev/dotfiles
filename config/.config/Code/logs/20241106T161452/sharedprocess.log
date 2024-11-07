@@ -1,0 +1,70 @@
+2024-11-06 16:15:01.280 [info] Getting Manifest... eamodio.gitlens
+2024-11-06 16:15:01.281 [info] Getting Manifest... pkief.material-icon-theme
+2024-11-06 16:15:01.282 [info] Getting Manifest... prisma.prisma
+2024-11-06 16:15:01.282 [info] Getting Manifest... rangav.vscode-thunder-client
+2024-11-06 16:15:01.283 [info] Getting Manifest... tabnine.tabnine-vscode
+2024-11-06 16:15:01.330 [info] Installing extension: prisma.prisma {"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-06 16:15:01.361 [info] Installing extension: eamodio.gitlens {"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-06 16:15:01.363 [info] Installing extension: pkief.material-icon-theme {"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-06 16:15:01.368 [info] Installing extension: rangav.vscode-thunder-client {"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-06 16:15:01.369 [info] Installing extension: tabnine.tabnine-vscode {"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-06 16:15:02.426 [info] Extension signature verification result for pkief.material-icon-theme: UnknownError. Executed: true. Duration: 33ms.
+2024-11-06 16:15:02.458 [info] Extension signature verification result for rangav.vscode-thunder-client: UnknownError. Executed: true. Duration: 14ms.
+2024-11-06 16:15:02.532 [info] Extension signature verification result for tabnine.tabnine-vscode: UnknownError. Executed: true. Duration: 12ms.
+2024-11-06 16:15:02.612 [info] Extension signature verification result for prisma.prisma: UnknownError. Executed: true. Duration: 13ms.
+2024-11-06 16:15:02.735 [info] Extension signature verification result for eamodio.gitlens: UnknownError. Executed: true. Duration: 9ms.
+2024-11-06 16:15:03.146 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/rangav.vscode-thunder-client-2.29.8: rangav.vscode-thunder-client
+2024-11-06 16:15:03.157 [info] Renamed to /home/felipersas/.vscode/extensions/rangav.vscode-thunder-client-2.29.8
+2024-11-06 16:15:03.295 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-06 16:15:03.301 [info] Marked extension as uninstalled rangav.vscode-thunder-client-2.29.6
+2024-11-06 16:15:03.426 [info] Extension installed successfully: rangav.vscode-thunder-client vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-06 16:15:03.936 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/tabnine.tabnine-vscode-3.186.0: tabnine.tabnine-vscode
+2024-11-06 16:15:03.937 [info] Renamed to /home/felipersas/.vscode/extensions/tabnine.tabnine-vscode-3.186.0
+2024-11-06 16:15:04.012 [info] Marked extension as uninstalled tabnine.tabnine-vscode-3.183.0
+2024-11-06 16:15:04.041 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-06 16:15:04.043 [info] Extension installed successfully: tabnine.tabnine-vscode vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-06 16:15:05.453 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/eamodio.gitlens-15.6.3: eamodio.gitlens
+2024-11-06 16:15:05.491 [info] Renamed to /home/felipersas/.vscode/extensions/eamodio.gitlens-15.6.3
+2024-11-06 16:15:05.566 [info] Marked extension as uninstalled eamodio.gitlens-15.6.2
+2024-11-06 16:15:05.608 [info] Extension installed successfully: eamodio.gitlens vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-06 16:15:05.611 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-06 16:15:06.204 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/pkief.material-icon-theme-5.13.0: pkief.material-icon-theme
+2024-11-06 16:15:06.211 [info] Renamed to /home/felipersas/.vscode/extensions/pkief.material-icon-theme-5.13.0
+2024-11-06 16:15:06.256 [info] Marked extension as uninstalled pkief.material-icon-theme-5.12.0
+2024-11-06 16:15:06.266 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-06 16:15:06.299 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-06 16:15:06.607 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/prisma.prisma-5.22.0: prisma.prisma
+2024-11-06 16:15:06.613 [info] Renamed to /home/felipersas/.vscode/extensions/prisma.prisma-5.22.0
+2024-11-06 16:15:06.634 [info] Marked extension as uninstalled prisma.prisma-5.21.1
+2024-11-06 16:15:06.656 [info] Extension installed successfully: prisma.prisma vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-06 16:15:06.700 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)

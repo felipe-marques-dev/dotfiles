@@ -1,0 +1,25 @@
+2024-11-05 05:05:27.723 [info] Added views:outline in workbench.view.explorer
+2024-11-05 05:05:27.723 [info] Added views:workbench.view.search in workbench.view.search
+2024-11-05 05:05:27.723 [info] Added views:workbench.scm in workbench.view.scm
+2024-11-05 05:05:27.723 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2024-11-05 05:05:27.723 [info] Added views:workbench.panel.output in workbench.panel.output
+2024-11-05 05:05:27.723 [info] Added views:terminal in terminal
+2024-11-05 05:05:27.723 [info] Added views:timeline in workbench.view.explorer
+2024-11-05 05:05:27.723 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2024-11-05 05:05:28.024 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2024-11-05 05:05:28.933 [info] Added view jsDebugNetworkTree in the container workbench.view.debug and showing it. undefined false undefined
+2024-11-05 05:05:28.934 [info] Added views:gitlens.views.home,gitlens.views.workspaces in workbench.view.extension.gitlens
+2024-11-05 05:05:28.935 [info] Added views:gitlens.views.commitDetails,gitlens.views.lineHistory,gitlens.views.fileHistory,gitlens.views.searchAndCompare in workbench.view.extension.gitlensInspect
+2024-11-05 05:05:28.936 [info] Added views:gitlens.views.commits,gitlens.views.branches,gitlens.views.remotes,gitlens.views.stashes,gitlens.views.tags,gitlens.views.contributors in workbench.view.scm
+2024-11-05 05:05:28.937 [info] Added views:todo-tree-view in workbench.view.extension.todo-tree-container
+2024-11-05 05:05:28.938 [info] Added views:thunder-client-sidebar in workbench.view.extension.thunder-client
+2024-11-05 05:05:29.322 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2024-11-05 05:05:30.255 [info] Added views:workbench.view.testing in workbench.view.extension.test
+2024-11-05 05:05:30.892 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2024-11-05 05:05:33.245 [info] Added views:gitlens.views.drafts in workbench.view.extension.gitlens
+2024-11-05 05:05:33.538 [info] Added views:workbench.scm.history in workbench.view.scm
+2024-11-05 05:05:33.633 [info] Added views:gitlens.views.graph,gitlens.views.graphDetails in workbench.view.extension.gitlensPanel
+2024-11-05 05:05:33.634 [info] Added views:gitlens.views.timeline in workbench.view.extension.gitlensInspect
+2024-11-05 05:05:33.638 [info] Added views:gitlens.views.worktrees in workbench.view.scm
+2024-11-05 05:07:44.972 [info] Removed views:workbench.scm.history from workbench.view.scm
+2024-11-05 05:07:44.989 [info] Removed views:workbench.view.testing from workbench.view.extension.test
