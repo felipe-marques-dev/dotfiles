@@ -108,6 +108,7 @@ sudo pacman -S --noconfirm \
   picom \
   pavucontrol \
   rofi \
+  tumbler \
   zoxide \
   fzf \
   audacity \
