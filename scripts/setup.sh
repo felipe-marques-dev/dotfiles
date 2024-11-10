@@ -116,7 +116,10 @@ sudo pacman -S --noconfirm \
   zoxide \
   fzf \
   audacity \
-  skypeforlinux
+  skypeforlinux \
+  bluez \
+  bluez-utils \
+  blueberry 
 
 # ================================================
 # Finalizando
