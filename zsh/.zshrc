@@ -105,5 +105,4 @@ source $ZSH/oh-my-zsh.sh
 # Iniciar o zoxide
 eval "$(fzf --zsh)"
 eval "$(zoxide init zsh)"
-fastfetch -c screenfetch.jsonc -l arch_small
-
+pfetch

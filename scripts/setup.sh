@@ -109,6 +109,10 @@ sudo pacman -S --noconfirm \
   pavucontrol \
   rofi \
   tumbler \
+  pfetch \
+  fastfetch \
+  xrandr \
+  brightnessctl \
   zoxide \
   fzf \
   audacity \
