@@ -4,25 +4,21 @@
 # Script de Automação para Instalação no Arch Linux
 # ================================================
 
-# Definindo o diretório de trabalho (opcional)
-WORKDIR=~/setup
-
-# Criar diretório para armazenar arquivos temporários
-mkdir -p $WORKDIR
-cd $WORKDIR
-
 # Exibe uma mensagem de boas-vindas
 echo "Iniciando a configuração automática do Arch Linux..."
 
-# ================================================
 # Atualizar o sistema
-# ================================================
 echo "Atualizando o sistema..."
 sudo pacman -Syu --noconfirm
 
-# ================================================
+#Instalar o Yay
+echo "Instalando o Yay..."
+sudo pacman -S --noconfirm --needed git base-devel
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+
 # Instalar Pacotes Essenciais
-# ================================================
 echo "Instalando pacotes essenciais..."
 sudo pacman -S --noconfirm \
   base-devel \
@@ -41,15 +37,14 @@ sudo pacman -S --noconfirm \
   sxhkd \
   lightdm lightdm-gtk-greeter
 
-# ================================================
 # Configurar o TLP
-# ================================================
 echo "Ativando o TLP..."
 sudo systemctl enable tlp
 sudo systemctl start tlp
 
 echo "Substituindo o arquivo de configuração do TLP..."
-sudo cp ~/dotfiles/tlp/tlp /etc/default/tlp
+sudo rm /etc/tlp.conf
+sudo cp ~/dotfiles/tlp/tlp.conf /etc/tlp.conf
 # ================================================
 # Instalar o Oh My Zsh
 # ================================================
@@ -58,21 +53,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 # Definir o Zsh como shell padrão
 chsh -s $(which zsh)
-
-# ================================================
-# Clonando o Repositório de Dotfiles
-# ================================================
-echo "Clonando os dotfiles..."
-git clone https://github.com/SEU_USUARIO/dotfiles.git $HOME/dotfiles
-
-# ================================================
-# Criando Links Simbólicos para os Dotfiles
-# ================================================
-echo "Criando links simbólicos para os dotfiles..."
-ln -s $HOME/dotfiles/config $HOME/.config
-ln -s $HOME/dotfiles/zshrc $HOME/.zshrc
-ln -s $HOME/dotfiles/oh-my-zsh $HOME/.zshrc
-ln -s $HOME/dotfiles/git $HOME/.gitconfig
 
 # ================================================
 # Instalar o LightDM (Login Manager)
@@ -120,6 +100,31 @@ sudo pacman -S --noconfirm \
   bluez \
   bluez-utils \
   blueberry 
+
+# Clonando o Repositório de Dotfiles
+echo "Clonando os dotfiles..."
+git clone https://github.com/SEU_USUARIO/dotfiles.git $HOME/dotfiles
+
+# Configuração do dotfiles
+echo "Criando links simbólicos para os dotfiles..."
+
+# Apagando pastas conflitantes
+rm -rf ~/.config 
+rm -rf ~/.zshrc
+rm -rf ~/.oh-my-zsh
+rm -rf .gitconfig
+
+# Criando Links Simbólicos para os Dotfiles
+ln -s $HOME/dotfiles/config $HOME/.config
+ln -s $HOME/dotfiles/zshrc $HOME/.zshrc
+ln -s $HOME/dotfiles/oh-my-zsh $HOME/.oh-my-zsh
+ln -s $HOME/dotfiles/git $HOME/.gitconfig
+
+# Configurando extensoes do Oh-my-zsh
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+
 
 # ================================================
 # Finalizando
