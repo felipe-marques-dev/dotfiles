@@ -1,0 +1,33 @@
+2024-11-17 17:16:22.418 [info] Uninstalling extension from the profile: catppuccin.catppuccin-vsc@3.16.0 vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-17 17:16:22.524 [info] Marked extension as uninstalled catppuccin.catppuccin-vsc-3.16.0
+2024-11-17 17:16:22.596 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-17 17:16:22.828 [info] Successfully uninstalled extension from the profile catppuccin.catppuccin-vsc@3.16.0 vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-17 17:16:26.023 [info] Uninstalling extension from the profile: evgeniypetukhov.dark-low-contrast@0.6.0 vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-17 17:16:26.118 [info] Marked extension as uninstalled evgeniypetukhov.dark-low-contrast-0.6.0
+2024-11-17 17:16:26.178 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-17 17:16:26.318 [info] Successfully uninstalled extension from the profile evgeniypetukhov.dark-low-contrast@0.6.0 vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-17 17:17:39.183 [info] Getting Manifest... sdras.night-owl
+2024-11-17 17:17:39.233 [info] Installing extension: sdras.night-owl {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"}}
+2024-11-17 17:17:39.557 [info] Extension signature verification result for sdras.night-owl: UnknownError. Executed: true. Duration: 72ms.
+2024-11-17 17:17:39.688 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/sdras.night-owl-2.0.1: sdras.night-owl
+2024-11-17 17:17:39.693 [info] Renamed to /home/felipersas/.vscode/extensions/sdras.night-owl-2.0.1
+2024-11-17 17:17:39.764 [info] Extension installed successfully: sdras.night-owl vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-17 17:17:39.782 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)

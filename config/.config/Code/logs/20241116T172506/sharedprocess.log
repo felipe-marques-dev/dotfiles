@@ -1,0 +1,13 @@
+2024-11-16 17:33:31.646 [info] Getting Manifest... jamesmaj.easy-icons
+2024-11-16 17:33:31.782 [info] Installing extension: jamesmaj.easy-icons {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"}}
+2024-11-16 17:33:32.488 [info] Extension signature verification result for jamesmaj.easy-icons: UnknownError. Executed: true. Duration: 41ms.
+2024-11-16 17:33:32.592 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/jamesmaj.easy-icons-0.3.1: jamesmaj.easy-icons
+2024-11-16 17:33:32.598 [info] Renamed to /home/felipersas/.vscode/extensions/jamesmaj.easy-icons-0.3.1
+2024-11-16 17:33:32.634 [info] Extension installed successfully: jamesmaj.easy-icons vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-16 17:33:32.696 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)

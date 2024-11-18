@@ -1,0 +1,5 @@
+2024-11-16 17:25:06.722 [info] update#setState idle
+2024-11-16 17:25:26.082 [info] Extension host with pid 11256 exited with code: 0, signal: unknown.
+2024-11-16 17:25:36.681 [info] update#setState checking for updates
+2024-11-16 17:25:36.698 [info] update#setState available for download
+2024-11-16 22:21:00.503 [error] ptyHost terminated unexpectedly with code 15

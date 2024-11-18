@@ -1,0 +1,59 @@
+2024-11-16 17:25:32.660 [info] (Client) Pylance async client (2024.11.2) started with python extension (2024.20.0)
+2024-11-16 17:25:33.186 [info] [Info  - 5:25:33 PM] (11662) Server root directory: file:///home/felipersas/.vscode/extensions/ms-python.vscode-pylance-2024.11.2/dist
+2024-11-16 17:25:33.186 [info] [Info  - 5:25:33 PM] (11662) Pylance language server 2024.11.2 (pyright version 1.1.386, commit 4180fa21) starting
+2024-11-16 17:25:33.186 [info] [Info  - 5:25:33 PM] (11662) Starting service instance "Problemas-Classicos-de-CC---Livro"
+2024-11-16 17:25:33.246 [info] [Info  - 5:25:33 PM] (11662) Setting environmentName for service "Problemas-Classicos-de-CC---Livro": "3.12.7 (global)"
+2024-11-16 17:25:33.246 [info] [Info  - 5:25:33 PM] (11662) Setting pythonPath for service "Problemas-Classicos-de-CC---Livro": "/bin/python"
+2024-11-16 17:25:33.247 [info] [Info  - 5:25:33 PM] (11662) No include entries specified; assuming /home/felipersas/Codes/Problemas-Classicos-de-CC---Livro
+2024-11-16 17:25:33.248 [info] [Info  - 5:25:33 PM] (11662) Auto-excluding **/node_modules
+2024-11-16 17:25:33.248 [info] [Info  - 5:25:33 PM] (11662) Auto-excluding **/__pycache__
+2024-11-16 17:25:33.248 [info] [Info  - 5:25:33 PM] (11662) Auto-excluding **/.*
+2024-11-16 17:25:33.301 [info] [Info  - 5:25:33 PM] (11662) Assuming Python version 3.12.7.final.0
+2024-11-16 17:25:33.473 [info] [Info  - 5:25:33 PM] (11662) Found 12 source files
+2024-11-16 17:25:34.483 [info] [Info  - 5:25:34 PM] (11662) Background analysis(1) root directory: file:///home/felipersas/.vscode/extensions/ms-python.vscode-pylance-2024.11.2/dist
+2024-11-16 17:25:34.488 [info] [Info  - 5:25:34 PM] (11662) Background analysis(1) started
+2024-11-16 17:25:34.771 [info] [Info  - 5:25:34 PM] (11662) Indexer background runner(2) root directory: file:///home/felipersas/.vscode/extensions/ms-python.vscode-pylance-2024.11.2/dist (index)
+2024-11-16 17:25:34.771 [info] [Info  - 5:25:34 PM] (11662) Indexing(2) started
+2024-11-16 17:25:35.780 [info] [Info  - 5:25:35 PM] (11662) scanned(2) 29 files over 1 exec env
+2024-11-16 17:25:36.458 [info] [Info  - 5:25:36 PM] (11662) indexed(2) 29 files over 1 exec env
+2024-11-16 17:25:36.487 [info] [Info  - 5:25:36 PM] (11662) Indexing finished(2).
+2024-11-16 17:33:32.708 [info] [Info  - 5:33:32 PM] Server process exited successfully
+2024-11-16 17:33:33.374 [info] (Client) Pylance async client (2024.11.2) started with python extension (2024.20.0)
+2024-11-16 17:33:34.362 [info] [Info  - 5:33:34 PM] (22387) Server root directory: file:///home/felipersas/.vscode/extensions/ms-python.vscode-pylance-2024.11.2/dist
+2024-11-16 17:33:34.418 [info] [Info  - 5:33:34 PM] (22387) Pylance language server 2024.11.2 (pyright version 1.1.386, commit 4180fa21) starting
+2024-11-16 17:33:34.419 [info] [Info  - 5:33:34 PM] (22387) Starting service instance "Problemas-Classicos-de-CC---Livro"
+2024-11-16 17:33:34.558 [info] [Info  - 5:33:34 PM] (22387) Setting environmentName for service "Problemas-Classicos-de-CC---Livro": "3.12.7 (global)"
+2024-11-16 17:33:34.558 [info] [Info  - 5:33:34 PM] (22387) Setting pythonPath for service "Problemas-Classicos-de-CC---Livro": "/bin/python"
+2024-11-16 17:33:34.559 [info] [Info  - 5:33:34 PM] (22387) No include entries specified; assuming /home/felipersas/Codes/Problemas-Classicos-de-CC---Livro
+2024-11-16 17:33:34.560 [info] [Info  - 5:33:34 PM] (22387) Auto-excluding **/node_modules
+2024-11-16 17:33:34.561 [info] [Info  - 5:33:34 PM] (22387) Auto-excluding **/__pycache__
+2024-11-16 17:33:34.561 [info] [Info  - 5:33:34 PM] (22387) Auto-excluding **/.*
+2024-11-16 17:33:34.615 [info] [Info  - 5:33:34 PM] (22387) Assuming Python version 3.12.7.final.0
+2024-11-16 17:33:34.738 [info] [Info  - 5:33:34 PM] (22387) Found 12 source files
+2024-11-16 17:33:36.023 [info] [Info  - 5:33:36 PM] (22387) Background analysis(1) root directory: file:///home/felipersas/.vscode/extensions/ms-python.vscode-pylance-2024.11.2/dist
+2024-11-16 17:33:36.029 [info] [Info  - 5:33:36 PM] (22387) Background analysis(1) started
+2024-11-16 17:33:36.268 [info] [Info  - 5:33:36 PM] (22387) Indexer background runner(2) root directory: file:///home/felipersas/.vscode/extensions/ms-python.vscode-pylance-2024.11.2/dist (index)
+2024-11-16 17:33:36.268 [info] [Info  - 5:33:36 PM] (22387) Indexing(2) started
+2024-11-16 17:33:37.056 [info] [Info  - 5:33:37 PM] (22387) scanned(2) 29 files over 1 exec env
+2024-11-16 17:33:37.437 [info] [Info  - 5:33:37 PM] (22387) indexed(2) 29 files over 1 exec env
+2024-11-16 17:33:37.480 [info] [Info  - 5:33:37 PM] (22387) Indexing finished(2).
+2024-11-16 17:36:31.916 [info] [Info  - 5:36:31 PM] Server process exited successfully
+2024-11-16 17:36:32.506 [info] (Client) Pylance async client (2024.11.2) started with python extension (2024.20.0)
+2024-11-16 17:36:33.370 [info] [Info  - 5:36:33 PM] (22652) Server root directory: file:///home/felipersas/.vscode/extensions/ms-python.vscode-pylance-2024.11.2/dist
+2024-11-16 17:36:33.371 [info] [Info  - 5:36:33 PM] (22652) Pylance language server 2024.11.2 (pyright version 1.1.386, commit 4180fa21) starting
+2024-11-16 17:36:33.378 [info] [Info  - 5:36:33 PM] (22652) Starting service instance "Problemas-Classicos-de-CC---Livro"
+2024-11-16 17:36:33.430 [info] [Info  - 5:36:33 PM] (22652) Setting environmentName for service "Problemas-Classicos-de-CC---Livro": "3.12.7 (global)"
+2024-11-16 17:36:33.430 [info] [Info  - 5:36:33 PM] (22652) Setting pythonPath for service "Problemas-Classicos-de-CC---Livro": "/bin/python"
+2024-11-16 17:36:33.431 [info] [Info  - 5:36:33 PM] (22652) No include entries specified; assuming /home/felipersas/Codes/Problemas-Classicos-de-CC---Livro
+2024-11-16 17:36:33.432 [info] [Info  - 5:36:33 PM] (22652) Auto-excluding **/node_modules
+2024-11-16 17:36:33.432 [info] [Info  - 5:36:33 PM] (22652) Auto-excluding **/__pycache__
+2024-11-16 17:36:33.432 [info] [Info  - 5:36:33 PM] (22652) Auto-excluding **/.*
+2024-11-16 17:36:33.463 [info] [Info  - 5:36:33 PM] (22652) Assuming Python version 3.12.7.final.0
+2024-11-16 17:36:33.537 [info] [Info  - 5:36:33 PM] (22652) Found 12 source files
+2024-11-16 17:36:34.758 [info] [Info  - 5:36:34 PM] (22652) Background analysis(1) root directory: file:///home/felipersas/.vscode/extensions/ms-python.vscode-pylance-2024.11.2/dist
+2024-11-16 17:36:34.763 [info] [Info  - 5:36:34 PM] (22652) Background analysis(1) started
+2024-11-16 17:36:34.822 [info] [Info  - 5:36:34 PM] (22652) Indexer background runner(2) root directory: file:///home/felipersas/.vscode/extensions/ms-python.vscode-pylance-2024.11.2/dist (index)
+2024-11-16 17:36:34.822 [info] [Info  - 5:36:34 PM] (22652) Indexing(2) started
+2024-11-16 17:36:35.431 [info] [Info  - 5:36:35 PM] (22652) scanned(2) 29 files over 1 exec env
+2024-11-16 17:36:35.829 [info] [Info  - 5:36:35 PM] (22652) indexed(2) 29 files over 1 exec env
+2024-11-16 17:36:35.859 [info] [Info  - 5:36:35 PM] (22652) Indexing finished(2).

@@ -1,0 +1,19 @@
+2024-11-18 16:52:42.409 [info] (Client) Pylance async client (2024.11.2) started with python extension (2024.20.0)
+2024-11-18 16:52:43.057 [info] [Info  - 4:52:43 PM] (16180) Server root directory: file:///home/felipersas/.vscode/extensions/ms-python.vscode-pylance-2024.11.2/dist
+2024-11-18 16:52:43.062 [info] [Info  - 4:52:43 PM] (16180) Pylance language server 2024.11.2 (pyright version 1.1.386, commit 4180fa21) starting
+2024-11-18 16:52:43.062 [info] [Info  - 4:52:43 PM] (16180) Starting service instance "Problemas-Classicos-de-CC---Livro"
+2024-11-18 16:52:43.158 [info] [Info  - 4:52:43 PM] (16180) Setting environmentName for service "Problemas-Classicos-de-CC---Livro": "3.12.7 (global)"
+2024-11-18 16:52:43.158 [info] [Info  - 4:52:43 PM] (16180) Setting pythonPath for service "Problemas-Classicos-de-CC---Livro": "/bin/python"
+2024-11-18 16:52:43.159 [info] [Info  - 4:52:43 PM] (16180) No include entries specified; assuming /home/felipersas/Codes/Problemas-Classicos-de-CC---Livro
+2024-11-18 16:52:43.160 [info] [Info  - 4:52:43 PM] (16180) Auto-excluding **/node_modules
+2024-11-18 16:52:43.161 [info] [Info  - 4:52:43 PM] (16180) Auto-excluding **/__pycache__
+2024-11-18 16:52:43.161 [info] [Info  - 4:52:43 PM] (16180) Auto-excluding **/.*
+2024-11-18 16:52:43.208 [info] [Info  - 4:52:43 PM] (16180) Assuming Python version 3.12.7.final.0
+2024-11-18 16:52:43.377 [info] [Info  - 4:52:43 PM] (16180) Found 12 source files
+2024-11-18 16:52:44.403 [info] [Info  - 4:52:44 PM] (16180) Background analysis(1) root directory: file:///home/felipersas/.vscode/extensions/ms-python.vscode-pylance-2024.11.2/dist
+2024-11-18 16:52:44.409 [info] [Info  - 4:52:44 PM] (16180) Background analysis(1) started
+2024-11-18 16:52:44.677 [info] [Info  - 4:52:44 PM] (16180) Indexer background runner(2) root directory: file:///home/felipersas/.vscode/extensions/ms-python.vscode-pylance-2024.11.2/dist (index)
+2024-11-18 16:52:44.677 [info] [Info  - 4:52:44 PM] (16180) Indexing(2) started
+2024-11-18 16:52:45.357 [info] [Info  - 4:52:45 PM] (16180) scanned(2) 29 files over 1 exec env
+2024-11-18 16:52:45.688 [info] [Info  - 4:52:45 PM] (16180) indexed(2) 29 files over 1 exec env
+2024-11-18 16:52:45.716 [info] [Info  - 4:52:45 PM] (16180) Indexing finished(2).

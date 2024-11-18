@@ -36,14 +36,16 @@ window_padding_width 5
 enable_audio_bell no
 
 # Colors
-include ./theme.conf
+# include ./theme.conf
+include monochrome.conf
 
-background_opacity         0.9
+
+background_opacity         0.8
 dynamic_background_opacity yes
 
 
 
 # BEGIN_KITTY_THEME
-# Gruvbox Dark Hard
+# Tokyo Night
 include current-theme.conf
 # END_KITTY_THEME

@@ -1,0 +1,39 @@
+2024-11-16 10:39:50.436 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-11-16 10:39:50.437 [info] Auto Sync is enabled.
+2024-11-16 10:39:50.437 [info] Auto Sync: Suspended until auth token is available.
+2024-11-16 10:39:51.758 [info] Auto Sync: Triggered by Interval
+2024-11-16 10:39:51.758 [info] Sync started.
+2024-11-16 10:39:52.793 [info] Settings: Updated remote settings
+2024-11-16 10:39:52.795 [info] Settings: Updated last synchronized settings
+2024-11-16 10:39:52.802 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-11-16 10:39:52.817 [info] Snippets: No changes found during synchronizing snippets.
+2024-11-16 10:39:52.820 [info] Tasks: No changes found during synchronizing tasks.
+2024-11-16 10:39:53.170 [info] GlobalState: Updated remote ui state. Updated: colorThemeData.
+2024-11-16 10:39:53.178 [info] GlobalState: Updated last synchronized ui state
+2024-11-16 10:39:53.453 [info] Extensions: Updated remote extensions. Added: ["smallreflection.teal-night"].
+2024-11-16 10:39:53.466 [info] Extensions: Updated last synchronized extensions. Skipped: ["undefined_publisher.wallbash"].
+2024-11-16 10:39:53.476 [info] Profiles: No changes found during synchronizing profiles.
+2024-11-16 10:39:53.485 [info] Sync done. Took 1723ms
+2024-11-16 10:40:11.913 [info] Auto Sync: Triggered by Activity
+2024-11-16 10:40:11.914 [info] Sync started.
+2024-11-16 10:40:12.276 [info] Settings: Updated remote settings
+2024-11-16 10:40:12.286 [info] Settings: Updated last synchronized settings
+2024-11-16 10:40:12.294 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-11-16 10:40:12.304 [info] Snippets: No changes found during synchronizing snippets.
+2024-11-16 10:40:12.312 [info] Tasks: No changes found during synchronizing tasks.
+2024-11-16 10:40:12.812 [info] GlobalState: Updated remote ui state. Updated: colorThemeData.
+2024-11-16 10:40:12.818 [info] GlobalState: Updated last synchronized ui state
+2024-11-16 10:40:13.126 [info] Extensions: Updated remote extensions. Added: ["enkia.tokyo-night"].
+2024-11-16 10:40:13.129 [info] Extensions: Updated last synchronized extensions. Skipped: ["undefined_publisher.wallbash"].
+2024-11-16 10:40:13.130 [info] Profiles: No changes found during synchronizing profiles.
+2024-11-16 10:40:13.130 [info] Sync done. Took 1212ms
+2024-11-16 10:40:26.296 [info] Auto Sync: Triggered by Activity
+2024-11-16 10:40:26.297 [info] Sync started.
+2024-11-16 10:40:26.455 [info] Settings: No changes found during synchronizing settings.
+2024-11-16 10:40:26.465 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-11-16 10:40:26.471 [info] Snippets: No changes found during synchronizing snippets.
+2024-11-16 10:40:26.476 [info] Tasks: No changes found during synchronizing tasks.
+2024-11-16 10:40:26.482 [info] GlobalState: No changes found during synchronizing ui state.
+2024-11-16 10:40:26.544 [info] Extensions: No changes found during synchronizing extensions.
+2024-11-16 10:40:26.546 [info] Profiles: No changes found during synchronizing profiles.
+2024-11-16 10:40:26.547 [info] Sync done. Took 255ms

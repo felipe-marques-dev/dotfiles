@@ -1,0 +1,42 @@
+2024-11-18 16:52:41.864 [info] [main] Log level: Info
+2024-11-18 16:52:41.864 [info] [main] Validating found git in: "git"
+2024-11-18 16:52:41.864 [info] [main] Using git "2.47.0" from "git"
+2024-11-18 16:52:41.864 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-18 16:52:41.864 [info] > git rev-parse --show-toplevel [56ms]
+2024-11-18 16:52:41.864 [info] > git rev-parse --git-dir --git-common-dir [9ms]
+2024-11-18 16:52:41.864 [info] [Model][openRepository] Opened repository: /home/felipersas/Codes/Problemas-Classicos-de-CC---Livro
+2024-11-18 16:52:41.928 [info] > git rev-parse --show-toplevel [49ms]
+2024-11-18 16:52:41.929 [info] > git config --get commit.template [56ms]
+2024-11-18 16:52:41.958 [info] > git rev-parse --show-toplevel [17ms]
+2024-11-18 16:52:41.969 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2024-11-18 16:52:41.971 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-18 16:52:41.999 [info] > git status -z -uall [11ms]
+2024-11-18 16:52:42.000 [info] > git rev-parse --show-toplevel [21ms]
+2024-11-18 16:52:42.009 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+2024-11-18 16:52:42.043 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-11-18 16:52:42.052 [info] > git rev-parse --show-toplevel [44ms]
+2024-11-18 16:52:42.078 [info] > git config --local branch.main.vscode-merge-base [26ms]
+2024-11-18 16:52:42.088 [info] > git config --get commit.template [52ms]
+2024-11-18 16:52:42.099 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [12ms]
+2024-11-18 16:52:42.139 [info] > git rev-parse --show-toplevel [62ms]
+2024-11-18 16:52:42.159 [info] > git merge-base refs/heads/main refs/remotes/origin/main [51ms]
+2024-11-18 16:52:42.211 [info] > git diff --name-status -z --diff-filter=ADMR 0de4880833e0b134b7ad370b529e63960d502ef3...refs/remotes/origin/main [42ms]
+2024-11-18 16:52:42.211 [info] > git rev-parse --show-toplevel [53ms]
+2024-11-18 16:52:42.213 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-18 16:52:42.214 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [65ms]
+2024-11-18 16:52:42.232 [info] > git status -z -uall [9ms]
+2024-11-18 16:52:42.233 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2024-11-18 16:52:42.436 [info] > git show --textconv :search_problems/maze.py [17ms]
+2024-11-18 16:52:42.439 [info] > git ls-files --stage -- /home/felipersas/Codes/Problemas-Classicos-de-CC---Livro/search_problems/maze.py [5ms]
+2024-11-18 16:52:42.469 [info] > git check-ignore -v -z --stdin [1ms]
+2024-11-18 16:52:42.470 [info] > git cat-file -s f2625f190e8b1648ae1e552cc9ff20084d7cc533 [16ms]
+2024-11-18 16:52:54.086 [info] [main] Log level: Info
+2024-11-18 16:52:54.086 [info] [main] Validating found git in: "git"
+2024-11-18 16:52:54.086 [info] [main] Using git "2.47.0" from "git"
+2024-11-18 16:52:54.086 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-18 16:52:54.086 [info] > git rev-parse --show-toplevel [47ms]
+2024-11-18 16:52:54.086 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (1), unsafe repositories (0)
+2024-11-18 16:52:54.089 [info] > git rev-parse --show-toplevel [99ms]
+2024-11-18 16:52:54.253 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-18 16:52:54.282 [info] > git rev-parse --show-toplevel [17ms]
+2024-11-18 16:52:54.575 [info] > git rev-parse --show-toplevel [2ms]

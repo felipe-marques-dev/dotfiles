@@ -1,0 +1,20 @@
+2024-11-18 16:52:36.307 [info] update#setState idle
+2024-11-18 16:52:51.532 [info] Extension host with pid 15849 exited with code: 0, signal: unknown.
+2024-11-18 16:52:51.561 [error] [UtilityProcessWorker]: terminated unexpectedly with code 82, signal: unknown
+2024-11-18 16:53:06.213 [info] update#setState checking for updates
+2024-11-18 16:53:06.219 [info] update#setState available for download
+2024-11-18 16:54:12.822 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-11-18 16:54:14.054 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-11-18 16:54:14.950 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-11-18 16:54:15.681 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-11-18 16:54:16.248 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-11-18 16:54:16.633 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-11-18 16:54:21.140 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-11-18 16:54:49.863 [info] Extension host with pid 16415 exited with code: 0, signal: unknown.

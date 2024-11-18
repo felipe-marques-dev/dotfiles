@@ -1,0 +1,40 @@
+2024-11-18 18:13:48.508 [info] Started local extension host with pid 17376.
+2024-11-18 18:13:51.661 [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at m (/home/felipersas/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59422)
+	at /home/felipersas/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59088
+	at Generator.next (<anonymous>)
+	at /home/felipersas/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58625
+	at new Promise (<anonymous>)
+	at a (/home/felipersas/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58370)
+	at t.checkThemeStatus (/home/felipersas/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59018)
+	at /home/felipersas/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52529
+	at Generator.next (<anonymous>)
+	at a (/home/felipersas/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52022)
+2024-11-18 18:13:51.663 [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at t.getConfigProperties (/home/felipersas/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:55948)
+	at a (/home/felipersas/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:53104)
+	at t.detectConfigChanges (/home/felipersas/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52934)
+	at /home/felipersas/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52624
+	at Generator.next (<anonymous>)
+	at a (/home/felipersas/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52022)
+2024-11-18 18:13:52.700 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 18:13:52.701 [info] Settings Sync: Authentication providers updated []
+2024-11-18 18:13:53.279 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 18:13:53.280 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-18 18:13:53.280 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 18:13:53.281 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-18 18:13:53.281 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-18 18:13:53.282 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 18:13:53.282 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-18 18:13:53.283 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 18:13:53.283 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-18 18:13:53.284 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 18:13:53.284 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-18 18:13:53.284 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-18 18:13:53.285 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 18:13:53.285 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-18 18:13:53.709 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 18:13:53.710 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-18 18:13:54.469 [info] [perf] Render performance baseline is 126ms
+2024-11-18 18:13:54.613 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 18:13:54.613 [info] Settings Sync: Authentication providers updated ["github","microsoft"]

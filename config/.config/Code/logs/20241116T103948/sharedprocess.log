@@ -1,0 +1,13 @@
+2024-11-16 10:40:02.371 [info] Getting Manifest... enkia.tokyo-night
+2024-11-16 10:40:02.421 [info] Installing extension: enkia.tokyo-night {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json","path":"/home/felipersas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"}}
+2024-11-16 10:40:03.023 [info] Extension signature verification result for enkia.tokyo-night: UnknownError. Executed: true. Duration: 8ms.
+2024-11-16 10:40:03.067 [info] Extracted extension to file:///home/felipersas/.vscode/extensions/enkia.tokyo-night-1.0.9: enkia.tokyo-night
+2024-11-16 10:40:03.071 [info] Renamed to /home/felipersas/.vscode/extensions/enkia.tokyo-night-1.0.9
+2024-11-16 10:40:03.102 [info] Extension installed successfully: enkia.tokyo-night vscode-userdata:/home/felipersas/.vscode/extensions/extensions.json
+2024-11-16 10:40:03.157 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/felipersas/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)

@@ -1,0 +1,17 @@
+2024-11-16 17:25:31.001 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-16 17:25:31.001 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-16 17:25:31.001 [info] Experiment 'pythonTestAdapter' is active
+2024-11-16 17:25:31.001 [warning] Dir "/home/felipersas/Codes/Problemas-Classicos-de-CC---Livro/.pixi/envs" is not watchable (directory does not exist)
+2024-11-16 17:25:31.001 [info] Starting Environment refresh
+2024-11-16 17:25:31.001 [info] > hatch env show --json
+2024-11-16 17:25:31.001 [info] cwd: .
+2024-11-16 17:25:31.005 [info] Environments refresh finished (event): 123 milliseconds
+2024-11-16 17:25:31.006 [info] Environments refresh paths discovered: 124 milliseconds
+2024-11-16 17:25:31.007 [info] Environment refresh took 128 milliseconds
+2024-11-16 17:25:31.023 [info] > pyenv which python
+2024-11-16 17:25:31.023 [info] cwd: .
+2024-11-16 17:25:31.974 [info] Python interpreter path: /bin/python
+2024-11-16 17:25:33.211 [info] Starting Pylance language server.
+2024-11-16 17:25:53.754 [info] CreateEnv Trigger - Skipping for /home/felipersas/Codes/Problemas-Classicos-de-CC---Livro/search_problems/maze.py
+2024-11-16 17:25:54.033 [info] Send text to terminal: /bin/python /home/felipersas/Codes/Problemas-Classicos-de-CC---Livro/search_problems/maze.py
+2024-11-16 17:33:34.613 [info] Discover tests for workspace name: undefined - uri: /home/felipersas/.config/Code/User/settings.json

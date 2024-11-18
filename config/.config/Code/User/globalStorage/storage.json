@@ -6,14 +6,18 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/felipersas/Documents/Problemas-Classicos-de-CC---Livro"
+                "folderUri": "file:///home/felipersas/Documents/dotfiles/scripts"
             }
         ],
         "emptyWindows": []
     },
     "profileAssociations": {
         "workspaces": {
-            "file:///home/felipersas/Documents/Problemas-Classicos-de-CC---Livro": "__default__profile__"
+            "file:///home/felipersas/Documents/Problemas-Classicos-de-CC---Livro": "__default__profile__",
+            "file:///home/felipersas/Codes/Problemas-Classicos-de-CC---Livro": "__default__profile__",
+            "file:///home/felipersas/Documents/dotfiles": "__default__profile__",
+            "file:///home/felipersas/.config/polybar/cuts": "__default__profile__",
+            "file:///home/felipersas/Documents/dotfiles/scripts": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -77,12 +81,59 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/felipersas/Documents/Problemas-Classicos-de-CC---Livro",
-                                        "path": "/home/felipersas/Documents/Problemas-Classicos-de-CC---Livro",
+                                        "external": "file:///home/felipersas/Documents/dotfiles/scripts",
+                                        "path": "/home/felipersas/Documents/dotfiles/scripts",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/Problemas-Classicos-de-CC---Livro"
+                                    "label": "~/Documents/dotfiles/scripts"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/felipersas/Codes/Problemas-Classicos-de-CC---Livro",
+                                        "path": "/home/felipersas/Codes/Problemas-Classicos-de-CC---Livro",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Codes/Problemas-Classicos-de-CC---Livro"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/felipersas/.config/polybar/cuts",
+                                        "path": "/home/felipersas/.config/polybar/cuts",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/polybar/cuts"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/felipersas/Documents/dotfiles",
+                                        "path": "/home/felipersas/Documents/dotfiles",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/dotfiles"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/felipersas/Documents/dotfiles/scripts/random_wallpaper.sh",
+                                        "path": "/home/felipersas/Documents/dotfiles/scripts/random_wallpaper.sh",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/dotfiles/scripts/random_wallpaper.sh"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -129,8 +180,7 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll",
-                        "enabled": false
+                        "label": "Save A&&ll"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -140,13 +190,6 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
-                                {
-                                    "id": "github.copyVscodeDevLinkFile",
-                                    "label": "Copy vscode.dev Link"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -451,8 +494,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel",
-                                    "checked": true
+                                    "label": "&&Panel"
                                 },
                                 {
                                     "id": "toggle.toggleCustomTitleBar",
@@ -736,10 +778,6 @@
                         "label": "E&&xtensions"
                     },
                     {
-                        "id": "workbench.view.extension.test",
-                        "label": "T&&esting"
-                    },
-                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -780,7 +818,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1100,7 +1139,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal"
+                        "label": "&&Split Terminal",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1479,9 +1519,8 @@
                 "userSettingsLabel": "ctrl+shift+f"
             },
             "workbench.view.scm": {
-                "label": "Ctrl+Shift+G G",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+shift+g g"
+                "label": "Ctrl+Shift+G",
+                "userSettingsLabel": "ctrl+shift+g"
             },
             "workbench.view.debug": {
                 "label": "Ctrl+Shift+D",
@@ -1682,44 +1721,44 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#0d1117",
+    "themeBackground": "#011627",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#e6edf3",
-            "background": "#0d1117",
-            "editorBackground": "#0d1117",
-            "titleBarBackground": "#0d1117",
-            "titleBarBorder": "#30363d",
-            "activityBarBackground": "#0d1117",
-            "activityBarBorder": "#30363d",
-            "sideBarBackground": "#010409",
-            "sideBarBorder": "#30363d",
-            "statusBarBackground": "#0d1117",
-            "statusBarBorder": "#30363d",
-            "statusBarNoFolderBackground": "#0d1117"
+            "foreground": "#d6deeb",
+            "background": "#011627",
+            "editorBackground": "#011627",
+            "titleBarBackground": "#011627",
+            "activityBarBackground": "#011627",
+            "activityBarBorder": "#011627",
+            "sideBarBackground": "#011627",
+            "sideBarBorder": "#011627",
+            "statusBarBackground": "#011627",
+            "statusBarBorder": "#262a39",
+            "statusBarNoFolderBackground": "#011627"
         },
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 189,
+            "sideBarWidth": 170,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/felipersas/Documents/Problemas-Classicos-de-CC---Livro",
-            "backupPath": "/home/felipersas/.config/Code/Backups/3c25ee3569ca89ebf5049ecdea096d2e",
+            "folder": "file:///home/felipersas/Documents/dotfiles/scripts",
+            "backupPath": "/home/felipersas/.config/Code/Backups/dca3105958c7d484b8538069e84b3818",
             "uiState": {
                 "mode": 1,
-                "x": 8,
-                "y": 8,
-                "width": 1904,
-                "height": 1040
+                "x": 10,
+                "y": 1118,
+                "width": 669,
+                "height": 692,
+                "zoomLevel": 1
             }
         },
         "openedWindows": []
